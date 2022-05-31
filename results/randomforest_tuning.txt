@@ -1,0 +1,120 @@
+{'n_estimators': 40,
+ 'min_samples_split': 2,
+ 'min_samples_leaf': 1,
+ 'max_features': 'log2',
+ 'max_depth': 90,
+ 'criterion': 'entropy'}
+
+Mean macro F1-score :  0.9243708584352126
+Mean overall accuracy :  0.9239726849470122
+Mean F1-score on ‘deceased’ : 0.89
+
+{'n_estimators': 60,
+ 'min_samples_split': 2,
+ 'min_samples_leaf': 1,
+ 'max_features': 'sqrt',
+ 'max_depth': 40,
+ 'criterion': 'gini'}
+
+Mean macro F1-score :  0.9245030796796202
+Mean overall accuracy :  0.9240985700768313
+Mean F1-score on ‘deceased’ : 0.89
+
+{'n_estimators': 80,
+ 'min_samples_split': 2,
+ 'min_samples_leaf': 1,
+ 'max_features': 'log2',
+ 'max_depth': 80,
+ 'criterion': 'entropy'}
+
+Mean macro F1-score :  0.9246797127701537
+Mean overall accuracy :  0.9242558769748156
+Mean F1-score on ‘deceased’ : 0.89
+
+{'n_estimators': 100,
+ 'min_samples_split': 2,
+ 'min_samples_leaf': 1,
+ 'max_features': 'log2',
+ 'max_depth': 50,
+ 'criterion': 'entropy'}
+
+Mean macro F1-score :  0.9249222863032032
+Mean overall accuracy :  0.9245076373315957
+Mean F1-score on ‘deceased’ : 0.89
+
+{'n_estimators': 100,
+ 'min_samples_split': 2,
+ 'min_samples_leaf': 1,
+ 'max_features': 'log2',
+ 'max_depth': None,
+ 'criterion': 'entropy'}
+
+Mean macro F1-score :  0.9244066510783288
+Mean overall accuracy :  0.924004171083754
+Mean F1-score on ‘deceased’ : 0.89
+
+{'n_estimators': 50,
+ 'min_samples_split': 2,
+ 'min_samples_leaf': 1,
+ 'max_features': 'log2',
+ 'max_depth': 30,
+ 'criterion': 'entropy'}
+
+Mean macro F1-score :  0.923841082313656
+Mean overall accuracy :  0.9234062662314031
+Mean F1-score on ‘deceased’ : 0.89
+
+{'n_estimators': 50,
+ 'min_samples_split': 2,
+ 'min_samples_leaf': 1,
+ 'max_features': 'log2',
+ 'max_depth': 70,
+ 'criterion': 'gini'}
+
+Mean macro F1-score :  0.9247945086228236
+Mean overall accuracy :  0.9244132630956632
+Mean F1-score on ‘deceased’ : 0.89
+
+{'n_estimators': 70,
+ 'min_samples_split': 2,
+ 'min_samples_leaf': 1,
+ 'max_features': 'auto',
+ 'max_depth': 100,
+ 'criterion': 'entropy'}
+
+Mean macro F1-score :  0.9248293960391039
+Mean overall accuracy :  0.9244446749609704
+Mean F1-score on ‘deceased’ : 0.89
+
+{'n_estimators': 60,
+ 'min_samples_split': 2,
+ 'min_samples_leaf': 1,
+ 'max_features': 'log2',
+ 'max_depth': 60,
+ 'criterion': 'gini'}
+
+Mean macro F1-score :  0.9247814874615574
+Mean overall accuracy :  0.9243817670560635
+Mean F1-score on ‘deceased’ : 0.89
+
+{'n_estimators': 40,
+ 'min_samples_split': 2,
+ 'min_samples_leaf': 1,
+ 'max_features': 'sqrt',
+ 'max_depth': 80,
+ 'criterion': 'entropy'}
+
+Mean macro F1-score :  0.9245355084210036
+Mean overall accuracy :  0.9241300116507123
+Mean F1-score on ‘deceased’ : 0.89
+
+{'criterion': 'entropy',
+ 'max_depth': 40,
+ 'max_features': 'auto',
+ 'min_samples_leaf': 1,
+ 'min_samples_split': 2,
+ 'n_estimators': 115}
+
+Mean macro F1-score :  0.9254420726429423
+Mean overall accuracy :  0.9250425996190371
+Mean F1-score on ‘deceased’ : 0.89

@@ -1,0 +1,57 @@
+### ten best random search
+{'subsample': 0.8, 'min_child_weight': 1, 'max_depth': 15, 'gamma': 0.5, 'colsample_bytree': 0.8}
+accuracy: 0.9192782783985034
+F1-score marco: 0.9188746837893682
+F1-score on 'deceased:0.89
+
+{'subsample': 0.6, 'min_child_weight': 1, 'max_depth': 10, 'gamma': 0.5, 'colsample_bytree': 0.6}
+accuracy: 0.9154761269328521
+F1-score marco: 0.9158917438991411
+F1-score on 'deceased:0.88
+
+{'subsample': 0.6, 'min_child_weight': 1, 'max_depth': 10, 'gamma': 0.5, 'colsample_bytree': 0.6}
+accuracy: 0.9154761269328521
+F1-score marco: 0.9158917438991411
+F1-score on 'deceased: 0.88
+
+{'subsample': 0.6, 'min_child_weight': 1, 'max_depth': 15, 'gamma': 0.5, 'colsample_bytree': 0.8}
+accuracy: 0.9212977398212236
+F1-score marco: 0.921759831351596
+F1-score on 'deceased: 0.89
+
+{'subsample': 0.8, 'min_child_weight': 1, 'max_depth': 20, 'gamma': 1, 'colsample_bytree': 0.8}
+accuracy: 0.918182384895369
+F1-score marco: 0.9185905530967705
+F1-score on 'deceased: 0.89
+
+{'subsample': 0.8, 'min_child_weight': 1, 'max_depth': 10, 'gamma': 0.5, 'colsample_bytree': 1.0}
+accuracy: 0.9216123783743371
+F1-score marco: 0.9220229651030273
+F1-score on 'deceased: 0.89
+
+{'subsample': 0.8, 'min_child_weight': 1, 'max_depth': 15, 'gamma': 0.5, 'colsample_bytree': 0.8}
+accuracy: 0.9209516349370848
+F1-score marco: 0.9213940020013739
+F1-score on 'deceased: 0.89
+
+{'subsample': 0.6, 'min_child_weight': 1, 'max_depth': 20, 'gamma': 0.5, 'colsample_bytree': 0.8}
+accuracy: 0.92176983381519
+F1-score marco: 0.9222540274618831
+F1-score on 'deceased: 0.89
+
+{'subsample': 1.0, 'min_child_weight': 1, 'max_depth': 20, 'gamma': 0.5, 'colsample_bytree': 1.0}
+accuracy: 0.920196358818173
+F1-score marco: 0.9206689871920022
+F1-score on 'deceased: 0.89
+
+{'subsample': 0.8, 'min_child_weight': 1, 'max_depth': 15, 'gamma': 0.5, 'colsample_bytree': 0.8}
+accuracy: 0.9209516349370848
+F1-score marco: 0.9213940020013739
+F1-score on 'deceased: 0.89
+
+####grid_search for ten best random search
+{'colsample_bytree': 1.0, 'gamma': 0.5, 'max_depth': 20, 'min_child_weight': 1, 'subsample': 0.6}
+accuracy: 0.9213940020013739
+F1-score marco: 0.9209516349370848
+F1-score on 'deceased: 0.89
+

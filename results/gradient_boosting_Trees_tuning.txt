@@ -1,0 +1,54 @@
+{'subsample': 0.7,'n_estimators': 100,'min_samples_split': 20,'min_samples_leaf': 2,'max_features': 'sqrt','max_depth': 40,'learning_rate': 0.25}
+Mean F1-score =  0.9265233861877592
+Mean accuracy =  0.9259549103073402
+F1-score on 'deceased = 0.90
+
+{'subsample': 1.0,'n_estimators': 64,'min_samples_split': 5,'min_samples_leaf': 5,'max_features': 'auto','max_depth': 40,'learning_rate': 0.5}
+Mean F1-score =  0.9258737192583469
+Mean accuracy =  0.9253570648721368
+F1-score on 'deceased = 0.90
+
+{'subsample': 0.7,'n_estimators': 100,'min_samples_split': 10,'min_samples_leaf': 5,'max_features': 'sqrt','max_depth': 20,'learning_rate': 0.1}
+Mean F1-score =  0.9252488170862311
+Mean accuracy =  0.9246962224063054
+F1-score on 'deceased = 0.89
+
+{'subsample': 1.0,'n_estimators': 32,'min_samples_split': 10,'min_samples_leaf': 5,'max_features': 'sqrt','max_depth': 40,'learning_rate': 0.25}
+Mean F1-score =  0.9245165186985131
+Mean accuracy =  0.9240038938037323
+F1-score on 'deceased = 0.89
+
+{'subsample': 1.0,'n_estimators': 64,'min_samples_split': 60,'min_samples_leaf': 2,'max_features': 'auto','max_depth': 40,'learning_rate': 0.1}
+Mean F1-score =  0.8165602342915925
+Mean accuracy =  0.8192457785354564
+F1-score on 'deceased = 0.73
+
+{'subsample': 1.0,'n_estimators': 100,'min_samples_split': 60,'min_samples_leaf': 5,'max_features': 'auto','max_depth': 40,'learning_rate': 0.5}
+Mean F1-score =  0.8165602342915925
+Mean accuracy =  0.8192457785354564
+F1-score on 'deceased = 0.73
+
+{'subsample': 1.0,'n_estimators': 64,'min_samples_split': 10,'min_samples_leaf': 2,'max_features': 'log2','max_depth': 10,'learning_rate': 0.5}
+'
+Mean F1-score =  0.9253462631296981
+Mean accuracy =  0.9248221223904114
+F1-score on 'deceased = 0.90
+
+{'subsample': 0.7,'n_estimators': 100,'min_samples_split': 10,'min_samples_leaf': 5,'max_features': 'auto','max_depth': 20,'learning_rate': 0.25}
+Mean F1-score =  0.9256795211817739
+Mean accuracy =  0.9251053193696436
+F1-score on 'deceased = 0.90
+
+{'subsample': 1.0,'n_estimators': 100,'min_samples_split': 40,'min_samples_leaf': 5,'max_features': 'auto','max_depth': 20,'learning_rate': 0.1}
+Mean F1-score =  0.9247670060069497
+Mean accuracy =  0.9242556591119413
+F1-score on 'deceased = 0.89
+
+{'subsample': 1.0,'n_estimators': 64,'min_samples_split': 60,'min_samples_leaf': 2,'max_features': 'sqrt','max_depth': 80,'learning_rate': 0.5}
+Mean F1-score =  0.9254477704160131
+Mean accuracy =  0.9248850055381734
+F1-score on 'deceased = 0.90
+
+best grid result:
+subsample= 0.7,n_estimators= 100, min_samples_split= 10, min_samples_leaf= 5, max_features= 2, max_depth= 40, learning_rate= 0.1)					
+
